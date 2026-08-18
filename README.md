@@ -1,5 +1,6 @@
 # GLOBAL SUPERSTORE DASHBOARD
 Global superstore sales Analytics Using Excel, SQL, Power BI and DAX
+
 Project Overview
 
 This project analyzes Global Superstore sales data to identify sales trends, profitability, customer behavior, product performance, and regional performance. The analysis was performed using Excel, SQL, Power BI, and DAX to generate meaningful business insights through an interactive dashboard.
